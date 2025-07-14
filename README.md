@@ -34,7 +34,7 @@ Este projeto tem como objetivo gerar um **calendário de partidas** para o Campe
 
 - Python 3.8+
 - Bibliotecas necessárias:
-  *Nota: As bibliotecas só são necessárias para gerar a matriz de distâncias, que já está disponível na pasta "data". Sendo assim, não é necessário instalar nenhuma biblioteca para gerar o calendário.
+- *Nota: As bibliotecas só são necessárias para gerar a matriz de distâncias, que já está disponível na pasta "data". Sendo assim, não é necessário instalar nenhuma biblioteca para gerar o calendário.
 
 ```bash
 pip install pandas geopy
