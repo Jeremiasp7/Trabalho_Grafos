@@ -44,7 +44,7 @@ pip install pandas geopy
 
 O primeiro passo é gerar a matriz de distâncias geográficas entre as cidades dos times participantes:
 
-python main.py
+python algorithm.py
 
 Este passo irá:
 
